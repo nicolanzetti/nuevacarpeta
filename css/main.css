@@ -1,0 +1,53 @@
+/* estilos genereles */
+
+body{
+    background-color: #F8CED8;
+}
+header{
+    background-color: #E9BDC7;
+}
+.indexTitulo{
+    text-align: center;
+    font-size: 50px;
+
+}
+.indexTitulo span{
+    color: white;
+}
+.mainP{
+    text-align: center;
+    font-size: 20px;
+}
+.botonIndex{
+    text-decoration: none;
+    color: black;
+    background-color:#E9BDC7 ;
+}
+.imgIndex{
+    text-align: center;
+}
+footer h2{
+    background-color: #E9BDC7;
+    text-align: center;
+    font-size: 15px;
+}
+/* html tienda online */
+.tituloOnline{
+    text-align: center;
+    font-size: 50px;
+}
+
+.pClass{
+    text-align: center;
+    font-size: 20px;
+}
+.pClass span{ 
+    color: white;
+}
+.imgTienda{
+    text-align: center;
+}
+.volverHome{
+    text-decoration: none;
+    text-align: center;
+    background-color:#E9BDC7 ;
